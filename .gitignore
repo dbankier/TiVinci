@@ -1,0 +1,7 @@
+tmp
+bin
+build
+*.zip
+tivinci.xcodeproj/xcuserdata
+tivinci.xcodeproj/project.xcworkspace/xcuserdata
+.DS_Store
